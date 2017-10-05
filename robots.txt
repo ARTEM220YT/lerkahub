@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /img/*.png
+Disallow: /img/*.jpg
+Disallow: /img/memes/*.png
+Disallow: /img/memes/*.jpg
+Disallow: /img/gifs/nyan.gif
+Disallow: /img/video/*.jpg
+Disallow: /img/video/*.png
+Disallow: /img/social/*.svg
+Disallow: /css/*.css
+Disallow: /js/*.js
+
+Host: lerkahub.net
+Sitemap: http://lerkahub.net/sitemap.xml
